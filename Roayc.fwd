@@ -1,6 +1,6 @@
 {
   "title": "Roayc's Widgets",
-  "description": "汇集网页、VDO、播客等R模块",
+  "description": "汇集网页、VDO、播客等模块",
   "icon": "https://github.com/pack1r/ForwardWidgets/raw/main/icon.png",
   "widgets": [
   {
@@ -24,7 +24,7 @@
     {
       "id": "letterboxd",
       "title": "Letterboxd电影爱好者平台",
-      "description": "解析Letterboxd片单内的影片【30% off code：CHEAP】",
+      "description": "解析Letterboxd片单内的影片",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "huangxd",
@@ -33,7 +33,7 @@
     {
       "id": "forward.playurl.danmu",
       "title": "播放链接弹幕",
-      "description": "从指定播放链接和服务器获取弹幕【30% off code：CHEAP】",
+      "description": "从指定播放链接和服务器获取弹幕",
       "requiredVersion": "0.0.2",
       "version": "1.0.0",
       "author": "huangxd",
