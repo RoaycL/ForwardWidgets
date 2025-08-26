@@ -22,6 +22,42 @@
       "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/zhuijurili.js"
     },
     {
+      "id": "ddys_vod",
+      "title": "低端影视",
+      "description": "获取在线电影、电视剧、动漫",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.1",
+      "author": "两块",
+      "url": "https://widgets-xd.vercel.app/Widgets/ddys.js"
+    },
+    {
+      "id": "tv_live",
+      "title": "电视台",
+      "description": "获取热门电视直播频道",
+      "requiredVersion": "0.0.1",
+      "version": "1.1.5",
+      "author": "两块",
+      "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/TvLive.js"
+    },
+    {
+      "id": "live",
+      "title": "直播(电视+网络)",
+      "description": "解析直播订阅链接",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.9",
+      "author": "huangxd",
+      "url": "https://widgets-xd.vercel.app/Widgets/live.js"
+    },
+    {
+      "id": "xtream_api_en",
+      "title": "Xtream API Live",
+      "description": "Fetch live channels via official Xtream-Codes REST API with keyword search",
+      "requiredVersion": "0.0.1",
+      "version": "2.1.2",
+      "author": "👑",
+      "url": "https://gist.githubusercontent.com/MrRegret/1b47fe77b505ef46893ca03cd1356b4f/raw"
+    },
+    {
       "id": "letterboxd",
       "title": "Letterboxd电影爱好者平台",
       "description": "解析Letterboxd片单内的影片",
