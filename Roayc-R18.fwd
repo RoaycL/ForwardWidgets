@@ -58,6 +58,15 @@
             "url": "https://github.com/baranwang/forward-widget/releases/latest/download/xvideos.js"
         },
         {
+            "id": "missav",
+            "title": "MissAV",
+            "description": "获取 MissAV 推荐",
+            "requiredVersion": "0.0.2",
+            "version": "1.0.0",
+            "author": "sex nonono",
+            "url": "https://widgets-xd.vercel.app/Widgets/MissAV.js"
+        },
+        {
             "id": "Bitch",
             "title": "碧池直播",
             "description": "TOM.5",
