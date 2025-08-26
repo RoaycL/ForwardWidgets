@@ -1,6 +1,6 @@
 {
   "title": "Roayc's R18 Widgets",
-  "description": "汇集瑟瑟网页、直播等R18模块",
+  "description": "汇集瑟瑟网页、直播等绅士仓库合集",
   "icon": "https://img.surgecloud.top/file/1755241631293_b031b62d-7b71-4e31-bebe-15db4a4adc41.png",
   "widgets": [
     {
@@ -65,6 +65,15 @@
       "version": "0.0.1",
       "author": "🅣🅞🅜",
       "url": "https://raw.githubusercontent.com/tom-proxy/FW/refs/heads/jk/zb.js"
+    },
+    {
+      "id": "missav",
+      "title": "MissAV",
+      "description": "获取 MissAV 推荐",
+      "requiredVersion": "0.0.2",
+      "version": "1.0.0",
+      "author": "sex nonono", // 同上
+      "url": "https://widgets-xd.vercel.app/Widgets/MissAV.js"
     }
   ]
 }
